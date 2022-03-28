@@ -79,11 +79,6 @@ footer h3 {
   text-align: center;
 }
 
-
-
-.box-nos_produits {
-}
-
 .jus_banane {
   display: flex;
   align-items: flex-end;
@@ -156,18 +151,20 @@ footer h3 {
   font-family: 'Sriracha', cursive;
 }
 
-main h2 {
-  color: white;
-  font-family: "Maven Pro", sans-serif;
-}
 .title-main {
   font-family: "Maven Pro", sans-serif;
   color: black;
   background-color: white;
 }
 
+main h2 {
+  color: white;
+  font-family: "Maven Pro", sans-serif;
+}
+
 main div {
   background-color: #7db96f;
+  padding: 30px 30px 50px;
 }
 
 main a {
