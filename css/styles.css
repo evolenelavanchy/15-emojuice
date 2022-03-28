@@ -227,3 +227,29 @@ footer {
   font-family: "Maven Pro", sans-serif;
   color: black;
 }
+
+.jus-de-banane {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  background: #FFF8D7;
+  color: #000;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 10px;
+}
+
+.sirop-cafe {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  background: #d3c6b2;
+  color: #000;
+  border-radius: 15px;
+  padding: 15px;
+  margin: 10px;
+}
